@@ -1,9 +1,9 @@
 {
   "name": "gfof-nix",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "gfof-foobar": "^0.0.3"
+    "gfof-foobar": "^0.0.4"
   }
 }
