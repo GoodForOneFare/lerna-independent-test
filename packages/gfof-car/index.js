@@ -1,4 +1,4 @@
 module.exports = {
-  value: 'bar_value',
+  value: 'car_value',
 };
 
