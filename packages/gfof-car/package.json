@@ -1,9 +1,9 @@
 {
   "name": "gfof-car",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "gfof-eden": "^0.0.0"
+    "gfof-eden": "^0.0.1"
   }
 }
