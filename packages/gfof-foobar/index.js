@@ -1,3 +1,3 @@
 module.exports = {
-  value: 'foobar_value5',
+  value: 'foobar_value6',
 }
