@@ -2,7 +2,7 @@
   "name": "lerna-independent-test",
   "private": true,
   "devDependencies": {
-    "lerna": "^2.5.1"
+    "lerna": "^3.13.4"
   },
   "dependencies": {
     "chalk": "^2.0.0"
