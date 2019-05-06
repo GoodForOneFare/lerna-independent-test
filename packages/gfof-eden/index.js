@@ -1,4 +1,4 @@
 module.exports = {
-  value: 'eden_value_2',
+  value: 'eden_value_3',
 };
 
